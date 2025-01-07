@@ -1,6 +1,7 @@
 # #################### manual creation ####################
 
 .DS_Store
+config.py
 
 # #################### automatic creation by GitHub ####################
 
